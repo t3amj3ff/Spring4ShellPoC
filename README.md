@@ -6,4 +6,5 @@ Modified from the good work done by BobTheShopLifter, https://github.com/BobTheS
 and TryHackMe.
 
 Just a few tweaks.
+Added a some extra bits when checking the exploit has deployed.
 Added a progess bar for the wait timer just to see how they work.
